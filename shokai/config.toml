@@ -1,0 +1,9 @@
+[general]
+    location = "Osaka, Japan"
+    connection = "Oracle Cloud Infrastructure"
+
+[http]
+    destinations = [
+        "https://www.google.co.jp",
+        "https://www.qqey.net",
+    ]
